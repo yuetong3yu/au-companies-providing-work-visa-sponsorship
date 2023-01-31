@@ -43,7 +43,6 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Healthshare](https://www.healthsharedigital.com/company/careers/) | Bondi Junction, Sydney | Python, JavaScript, React
 - [HiPages](https://hipagesgroup.com.au/careers/) | Sydney CBD, Sydney | PHP, NodeJs, MySQL, Swift, Objective-C
 - [HireUp](https://hireup.com.au/careers/) | Greenwich, Sydney | NodeJs, JavaScript, React, Mongo DB
-- [Home Care Heroes](https://homecareheroes.com.au/careers) | Redfern, Sydney | JavaScript, NodeJs, React, Ruby, Ruby on Rails, Rails, Docker
 - [IRESS](https://www.iress.com/au/company/join-us/) | Melbourne CBD, Melbourne; Sydney CBD, Sydney | Reactjs, Python, JavaScript, TypeScript, AWS
 - [Isentia](https://www.isentia.com/careers/) | Sydney CBD, Sydney; Melbourne CBD | Nodejs, Angularjs, Python, AWS, Docker 
 
